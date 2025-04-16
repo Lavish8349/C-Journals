@@ -125,4 +125,8 @@ A tragic yet hilarious tale of someone going to the gym and absolutely not train
 - Just enough logic to keep it funny and syntactically correct
 
 ⚠️ Warning: May cause chuckles and sudden gym motivation.
-
+## 🧠 D-2: What I Learned
+- if / else if / else logic flow
+- Comparison + logical operators
+- How to write interactive C programs
+- How to use conditionals to deliver humor, personalization, and creativity
