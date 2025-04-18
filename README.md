@@ -124,6 +124,28 @@ A tragic yet hilarious tale of someone going to the gym and absolutely not train
 - `printf()` formatting
 - Just enough logic to keep it funny and syntactically correct
 
+### 🔹 D-3: Arrays + Logic Practice 🧠🔢
+
+These projects focus on learning **arrays** and **if-else logic** in C — no loops, no functions, just pure raw control.
+
+📁 Files:
+- `typing_scores_min_max_ifelse.c`  
+  → Stores 5 typing WPM scores in an array, finds the **highest** and **lowest** using if-else statements only.
+
+- `typing_scores_trend_ifelse.c`  
+  → Builds on the first analyzer to detect whether scores are **improving**, **declining**, or **inconsistent**, again using only if-else logic and arrays.
+
+🛠️ Concepts practiced:
+- Declaring and initializing arrays
+- Accessing elements via indices
+- Manually tracking `min` and `max` values
+- Writing complex `if-else` logic to analyze trends
+- Input validation mindset (pre-loops)
+
+⛔ No loops  
+⛔ No functions  
+✅ Just arrays and raw if-else flow 🔥
+
 ⚠️ Warning: May cause chuckles and sudden gym motivation.
 ## 🧠 D-2: What I Learned
 - if / else if / else logic flow
